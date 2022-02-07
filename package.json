@@ -1,0 +1,22 @@
+{
+  "name": "unit4-evaluation-c2",
+  "version": "1.0.0",
+  "description": "Coding evaluation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashas88/unit4-evaluation-c2.git"
+  },
+  "author": "Yashas D B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashas88/unit4-evaluation-c2/issues"
+  },
+  "homepage": "https://github.com/Yashas88/unit4-evaluation-c2#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
